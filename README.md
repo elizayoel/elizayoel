@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elizayoel
 - 👀 I’m studying Computer Science (Data Analytics)
-- 🌱 I’m currently learning machine learning algorithms and business intelligence 
-- 💞️ I’m looking to collaborate on Big Company
+- 🌱 I’m currently learning Machine Learning Techniques and Business Intelligence Analysis
 - 📫 Reach me on linkedin: www.linkedin.com/in/elizayoeledysurya
 - 😄 Pronouns: she/her
 
